@@ -1,11 +1,17 @@
 # 💫 About Me:
 Hey! My name is Alaster, I'm an intermediate-level developer based in Singapore, and am currently a 2nd year student, studying for my diploma in digital design and development. Most of my projects are coded in Python, though I'm proficient proficient in many other languages and technology, the largest of them being back-end Web Development with Node.js, alongside an unreleased front-end game made using PixiJS (Stay tuned!).
 
+I'm turning 18 this year, and though I may seem young, my journey in programming started nearly a decade ago when I was 9! I started with little projects on Scratch, and took my first step into script-based programming with MicroBit and shortly thereafter, Arduino! 
+
 # 🎁 What I'm up to:
 I’m currently working on a VR psychological horror game, made in Unity!<br>
-I’m currently learning better soft skills, AI and automation and advanced programming concepts!<br>
+I’m currently developing a curriculum for my school's club in order to teach other students various things in IT, such as machine learning, automation, and web development!<br>
 I'm currently developing an AI web-scraping program!
 
+# 👀 Find Me:
+https://github.com/alasteralfio (That's where you're at now!)
+https://scratch.mit.edu/users/CatScratchGames/ (Sadly, I lost all my projects before 2018...)
+https://www.linkedin.com/in/alaster-zheng-b36b99279/
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
