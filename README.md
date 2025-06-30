@@ -3,6 +3,15 @@ Hey! My name is Alaster, I'm an intermediate-level developer based in Singapore,
 
 I'm turning 19 this year, and though I may seem young, my journey in programming started a decade ago when I was 9! I started with little projects on Scratch, and took my first step into script-based programming with MicroBit and shortly thereafter, Arduino! 
 
+# 🤖 Work and  Experience:
+## Volunteer Work
+- Former Code Mentor at Codedex.io, July 2023 to December 2023
+- Service Learning, teaching children aged 7-10 basic concepts of electronics through LittleBits, June 2024
+## Competitions and Co-Curriculars
+- Participant at the National AI Prompt Design Challenge 2024, June 2024
+- Grand Finalist, NTU 3rd Kumar Sustainability & Innovation Prize, May 2025
+- VP of Training at Hackstart RP, May 2024 to May 2025
+
 # 🎁 What I'm up to:
 I'm currently doing my Final Year Project, an internal edcation and chatbot system for KK Women's and Children Hospital (KKH)!<br>
 I’m currently working on a cloud-based cross-platform finance tracking app!<br>
