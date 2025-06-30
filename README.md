@@ -12,6 +12,8 @@ I'm turning 19 this year, and though I may seem young, my journey in programming
 - Grand Finalist, NTU 3rd Kumar Sustainability & Innovation Prize, May 2025
 - VP of Training at Hackstart RP, May 2024 to May 2025
 
+- For Job Experience, visit my LinkedIn profile!
+
 # 🎁 What I'm up to:
 I'm currently doing my Final Year Project, an internal edcation and chatbot system for KK Women's and Children Hospital (KKH)!<br>
 I’m currently working on a cloud-based cross-platform finance tracking app!<br>
