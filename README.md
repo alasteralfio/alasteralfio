@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey! My name is Alaster, I'm an intermediate-level developer based in Singapore, and am currently a 3rd year student, studying for my diploma in digital design and development. Most of my projects are coded in Python, though I'm proficient proficient in many other languages and technologies.<br>
 
-I'm turning 19 this year, and though I may seem young, my journey in programming started a decade ago when I was 9! I started with little projects on Scratch, and took my first step into script-based programming with MicroBit and shortly thereafter, Arduino! 
+I'm turning 20 this year, and though I may seem young, my journey in programming started a decade ago when I was 9! I started with little projects on Scratch, and took my first step into script-based programming with MicroBit and shortly thereafter, Arduino! 
 
 # 🤖 Work and  Experience:
 ## Volunteer Work
