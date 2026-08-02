@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! My name is Alaster, I'm an intermediate-level developer based in Singapore, and am currently a 3rd year student, studying for my diploma in digital design and development. Most of my projects are coded in Python, though I'm proficient proficient in many other languages and technologies.<br>
+Hey! My name is Alaster, I'm an intermediate-level developer based in Singapore, and am graduating with my diploma in Digital Design and Development. Most of my projects are coded in Python, though I'm proficient proficient in many other languages and technologies.<br>
 
 I'm turning 20 this year, and though I may seem young, my journey in programming started a decade ago when I was 9! I started with little projects on Scratch, and took my first step into script-based programming with MicroBit and shortly thereafter, Arduino! 
 
@@ -11,13 +11,9 @@ I'm turning 20 this year, and though I may seem young, my journey in programming
 - Participant at the National AI Prompt Design Challenge 2024, June 2024
 - Grand Finalist, NTU 3rd Kumar Sustainability & Innovation Prize, May 2025
 - VP of Training at Hackstart RP, May 2024 to May 2025
+- Grand Finalist, DSTA BrainHack CODE_EXP, June 2025
 
 - For Job Experience, visit my LinkedIn profile!
-
-# 🎁 What I'm up to:
-I'm currently doing my Final Year Project, an internal edcation and chatbot system for KK Women's and Children Hospital (KKH)!<br>
-I’m currently working on a cloud-based cross-platform finance tracking app!<br>
-I'm currently developing an AI web-scraping program!
 
 # 👀 Find Me:
 https://github.com/alasteralfio (That's where you're at now!)<br>
